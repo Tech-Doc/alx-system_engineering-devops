@@ -8,4 +8,5 @@ eval $("ssh-agent")
 ssh-add ~/.ssh/school
 
 # Username and IP Address 
-ssh ubuntu@100.26.170.43
+# old username and IP Address for web2 (ssh ubuntu@100.26.170.43)
+ssh ubuntu@52.201.168.15
