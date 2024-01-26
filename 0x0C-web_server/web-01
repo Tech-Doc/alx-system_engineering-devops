@@ -9,4 +9,4 @@ ssh-add ~/.ssh/school
 
 # Username and IP Address 
 # old username and IP Address (ssh ubuntu@52.205.86.40)
-ssh ubuntu@52.87.254.143
+ssh ubuntu@54.82.132.136
